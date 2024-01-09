@@ -6,6 +6,8 @@ This template will give us Log Analytics Reader access to your Log Analytics wor
 
 [![Azure Lighthouse Resource Group](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fawm-azure-lighthouse-resourcegroup.json)
 
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fawm-azure-lighthouse-resourcegroup.json)
+
 or copy link
 
 ```jsx
@@ -19,6 +21,8 @@ This template will provide us with LogAnalytics Reader role over the subscriptio
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fawm-azure-lighthouse-subscription.json)
 
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fawm-azure-lighthouse-subscription.json)
+
 or copy link
 
 ```jsx
@@ -30,6 +34,8 @@ https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.github
 This template will deploy a custom RBAC role called **WAF Policies Editor** which can only edit and not even delete WAF policies. This is a good role to assign to the **Service Princial** that you register in our portal
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fwaf-editor-custom-rbac-role.json)
+
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fwaf-editor-custom-rbac-role.json)
 
 or copy link
 
@@ -43,6 +49,8 @@ This template will quickly deploy a Classic Front Door WAF Policy for you with s
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fclassic-front-door-wafpolicy.json)
 
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fclassic-front-door-wafpolicy.json)
+
 or copy link
 
 ```jsx
@@ -54,6 +62,8 @@ https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.github
 This template will quickly deploy a Premium Front Door WAF Policy for you with some good practice custom rules and a beautiful custom block page.
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fpremium-front-door-wafpolicy.json)
+
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fpremium-front-door-wafpolicy.json)
 
 or copy link
 
@@ -67,6 +77,8 @@ This template will quickly deploy a Application Gateway WAF Policy for you with 
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fapp-gateway-wafpolicy.json)
 
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Fapp-gateway-wafpolicy.json)
+
 or copy link
 
 ```jsx
@@ -79,6 +91,8 @@ This template will quickly deploy a whole Classic Front Door instance with a new
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Ffront-door-and-classic-wafpolicy.json)
 
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Ffront-door-and-classic-wafpolicy.json)
+
 or copy link
 
 ```jsx
@@ -90,6 +104,8 @@ https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.github
 This template will quickly deploy a whole Premium Front Door instance with a new WAF Policy with some best practices already set up for you like best practices security headers and custom rules on the WAF policy.
 
 [![Azure Lighthouse Subscription](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Ffront-door-premium-and-premium-wafpolicy.json)
+
+[![Visualize](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.svg?sanitize=true)](http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FSunwell-Solutions-LTD%2Fazure-waf-manager-arm-templates%2Fmain%2Ffront-door-premium-and-premium-wafpolicy.json)
 
 or copy link
 
